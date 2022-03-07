@@ -1,0 +1,24 @@
+{
+  "name": "osu-2022-notetaker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/irshaw/osu-2022-NoteTaker.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/irshaw/osu-2022-NoteTaker/issues"
+  },
+  "homepage": "https://github.com/irshaw/osu-2022-NoteTaker#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
